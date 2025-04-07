@@ -1,0 +1,13 @@
+No inicio achei que seria uma tarefa simples, mas demorei bastante para conseguir
+montar o códido que identificava os maiores e menores valores intevalos
+
+A pesar de não ser solicitado usei SQLAlchemy pois é uma das tecnologias especificadas na descrição da vaga
+
+depois que desenvolvi a lógica, criei a função do endpoint olhando a documentação do FastAPI, e tive
+vários problemas com a conexão com o banco, pelo fato de se um banco em memória
+o ChatGPT me ajudou a resolver o problema com StaticPool
+
+os arquivos README e requeriments foram feitos com a ajuda do ChatGPT
+
+o test foram feitos com a ajuda do ChatGPT, pois nunca havia feito tests antes
+
